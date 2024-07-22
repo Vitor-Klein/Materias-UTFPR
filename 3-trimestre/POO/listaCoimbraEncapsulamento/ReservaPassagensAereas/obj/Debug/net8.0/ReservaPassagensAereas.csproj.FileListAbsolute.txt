@@ -1,0 +1,14 @@
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ReservaPassagensAereas\bin\Debug\net8.0\ReservaPassagensAereas.exe
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ReservaPassagensAereas\bin\Debug\net8.0\ReservaPassagensAereas.deps.json
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ReservaPassagensAereas\bin\Debug\net8.0\ReservaPassagensAereas.runtimeconfig.json
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ReservaPassagensAereas\bin\Debug\net8.0\ReservaPassagensAereas.dll
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ReservaPassagensAereas\bin\Debug\net8.0\ReservaPassagensAereas.pdb
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ReservaPassagensAereas\obj\Debug\net8.0\ReservaPassagensAereas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ReservaPassagensAereas\obj\Debug\net8.0\ReservaPassagensAereas.AssemblyInfoInputs.cache
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ReservaPassagensAereas\obj\Debug\net8.0\ReservaPassagensAereas.AssemblyInfo.cs
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ReservaPassagensAereas\obj\Debug\net8.0\ReservaPassagensAereas.csproj.CoreCompileInputs.cache
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ReservaPassagensAereas\obj\Debug\net8.0\ReservaPassagensAereas.dll
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ReservaPassagensAereas\obj\Debug\net8.0\refint\ReservaPassagensAereas.dll
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ReservaPassagensAereas\obj\Debug\net8.0\ReservaPassagensAereas.pdb
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ReservaPassagensAereas\obj\Debug\net8.0\ReservaPassagensAereas.genruntimeconfig.cache
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ReservaPassagensAereas\obj\Debug\net8.0\ref\ReservaPassagensAereas.dll

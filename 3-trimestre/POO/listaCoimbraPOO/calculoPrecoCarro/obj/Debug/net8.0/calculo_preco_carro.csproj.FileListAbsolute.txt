@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_preco_carro\bin\Debug\net8.0\calculo_preco_carro.exe
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_preco_carro\bin\Debug\net8.0\calculo_preco_carro.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_preco_carro\bin\Debug\net8.0\calculo_preco_carro.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_preco_carro\bin\Debug\net8.0\calculo_preco_carro.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_preco_carro\bin\Debug\net8.0\calculo_preco_carro.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_preco_carro\obj\Debug\net8.0\calculo_preco_carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_preco_carro\obj\Debug\net8.0\calculo_preco_carro.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_preco_carro\obj\Debug\net8.0\calculo_preco_carro.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_preco_carro\obj\Debug\net8.0\calculo_preco_carro.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_preco_carro\obj\Debug\net8.0\calculo_preco_carro.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_preco_carro\obj\Debug\net8.0\refint\calculo_preco_carro.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_preco_carro\obj\Debug\net8.0\calculo_preco_carro.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_preco_carro\obj\Debug\net8.0\calculo_preco_carro.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_preco_carro\obj\Debug\net8.0\ref\calculo_preco_carro.dll

@@ -1,0 +1,14 @@
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ClienteContaBancaria\bin\Debug\net8.0\ClienteContaBancaria.exe
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ClienteContaBancaria\bin\Debug\net8.0\ClienteContaBancaria.deps.json
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ClienteContaBancaria\bin\Debug\net8.0\ClienteContaBancaria.runtimeconfig.json
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ClienteContaBancaria\bin\Debug\net8.0\ClienteContaBancaria.dll
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ClienteContaBancaria\bin\Debug\net8.0\ClienteContaBancaria.pdb
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ClienteContaBancaria\obj\Debug\net8.0\ClienteContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ClienteContaBancaria\obj\Debug\net8.0\ClienteContaBancaria.AssemblyInfoInputs.cache
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ClienteContaBancaria\obj\Debug\net8.0\ClienteContaBancaria.AssemblyInfo.cs
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ClienteContaBancaria\obj\Debug\net8.0\ClienteContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ClienteContaBancaria\obj\Debug\net8.0\ClienteContaBancaria.dll
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ClienteContaBancaria\obj\Debug\net8.0\refint\ClienteContaBancaria.dll
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ClienteContaBancaria\obj\Debug\net8.0\ClienteContaBancaria.pdb
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ClienteContaBancaria\obj\Debug\net8.0\ClienteContaBancaria.genruntimeconfig.cache
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraEncapsulamento\ClienteContaBancaria\obj\Debug\net8.0\ref\ClienteContaBancaria.dll

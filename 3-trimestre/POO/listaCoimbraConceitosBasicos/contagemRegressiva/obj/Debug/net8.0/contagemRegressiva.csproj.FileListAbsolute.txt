@@ -1,0 +1,14 @@
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\contagemRegressiva\bin\Debug\net8.0\contagemRegressiva.exe
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\contagemRegressiva\bin\Debug\net8.0\contagemRegressiva.deps.json
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\contagemRegressiva\bin\Debug\net8.0\contagemRegressiva.runtimeconfig.json
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\contagemRegressiva\bin\Debug\net8.0\contagemRegressiva.dll
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\contagemRegressiva\bin\Debug\net8.0\contagemRegressiva.pdb
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\contagemRegressiva\obj\Debug\net8.0\contagemRegressiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\contagemRegressiva\obj\Debug\net8.0\contagemRegressiva.AssemblyInfoInputs.cache
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\contagemRegressiva\obj\Debug\net8.0\contagemRegressiva.AssemblyInfo.cs
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\contagemRegressiva\obj\Debug\net8.0\contagemRegressiva.csproj.CoreCompileInputs.cache
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\contagemRegressiva\obj\Debug\net8.0\contagemRegressiva.dll
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\contagemRegressiva\obj\Debug\net8.0\refint\contagemRegressiva.dll
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\contagemRegressiva\obj\Debug\net8.0\contagemRegressiva.pdb
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\contagemRegressiva\obj\Debug\net8.0\contagemRegressiva.genruntimeconfig.cache
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\contagemRegressiva\obj\Debug\net8.0\ref\contagemRegressiva.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "calculo_preco_carro/1.0.0": {
+        "runtime": {
+          "calculo_preco_carro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculo_preco_carro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

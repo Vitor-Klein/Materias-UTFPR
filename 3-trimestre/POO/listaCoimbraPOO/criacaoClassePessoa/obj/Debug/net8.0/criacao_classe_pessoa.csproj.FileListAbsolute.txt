@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\criacao_classe_pessoa\bin\Debug\net8.0\criacao_classe_pessoa.exe
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\criacao_classe_pessoa\bin\Debug\net8.0\criacao_classe_pessoa.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\criacao_classe_pessoa\bin\Debug\net8.0\criacao_classe_pessoa.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\criacao_classe_pessoa\bin\Debug\net8.0\criacao_classe_pessoa.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\criacao_classe_pessoa\bin\Debug\net8.0\criacao_classe_pessoa.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\criacao_classe_pessoa\obj\Debug\net8.0\criacao_classe_pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\criacao_classe_pessoa\obj\Debug\net8.0\criacao_classe_pessoa.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\criacao_classe_pessoa\obj\Debug\net8.0\criacao_classe_pessoa.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\criacao_classe_pessoa\obj\Debug\net8.0\criacao_classe_pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\criacao_classe_pessoa\obj\Debug\net8.0\criacao_classe_pessoa.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\criacao_classe_pessoa\obj\Debug\net8.0\refint\criacao_classe_pessoa.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\criacao_classe_pessoa\obj\Debug\net8.0\criacao_classe_pessoa.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\criacao_classe_pessoa\obj\Debug\net8.0\criacao_classe_pessoa.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\criacao_classe_pessoa\obj\Debug\net8.0\ref\criacao_classe_pessoa.dll

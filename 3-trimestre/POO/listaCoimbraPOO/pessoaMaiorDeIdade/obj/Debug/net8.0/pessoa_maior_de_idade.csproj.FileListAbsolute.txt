@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\pessoa_maior_de_idade\bin\Debug\net8.0\pessoa_maior_de_idade.exe
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\pessoa_maior_de_idade\bin\Debug\net8.0\pessoa_maior_de_idade.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\pessoa_maior_de_idade\bin\Debug\net8.0\pessoa_maior_de_idade.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\pessoa_maior_de_idade\bin\Debug\net8.0\pessoa_maior_de_idade.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\pessoa_maior_de_idade\bin\Debug\net8.0\pessoa_maior_de_idade.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\pessoa_maior_de_idade\obj\Debug\net8.0\pessoa_maior_de_idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\pessoa_maior_de_idade\obj\Debug\net8.0\pessoa_maior_de_idade.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\pessoa_maior_de_idade\obj\Debug\net8.0\pessoa_maior_de_idade.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\pessoa_maior_de_idade\obj\Debug\net8.0\pessoa_maior_de_idade.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\pessoa_maior_de_idade\obj\Debug\net8.0\pessoa_maior_de_idade.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\pessoa_maior_de_idade\obj\Debug\net8.0\refint\pessoa_maior_de_idade.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\pessoa_maior_de_idade\obj\Debug\net8.0\pessoa_maior_de_idade.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\pessoa_maior_de_idade\obj\Debug\net8.0\pessoa_maior_de_idade.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\pessoa_maior_de_idade\obj\Debug\net8.0\ref\pessoa_maior_de_idade.dll

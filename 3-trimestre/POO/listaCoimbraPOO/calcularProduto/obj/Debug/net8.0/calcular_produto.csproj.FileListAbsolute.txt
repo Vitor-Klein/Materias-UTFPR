@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_produto\bin\Debug\net8.0\calcular_produto.exe
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_produto\bin\Debug\net8.0\calcular_produto.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_produto\bin\Debug\net8.0\calcular_produto.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_produto\bin\Debug\net8.0\calcular_produto.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_produto\bin\Debug\net8.0\calcular_produto.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_produto\obj\Debug\net8.0\calcular_produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_produto\obj\Debug\net8.0\calcular_produto.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_produto\obj\Debug\net8.0\calcular_produto.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_produto\obj\Debug\net8.0\calcular_produto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_produto\obj\Debug\net8.0\calcular_produto.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_produto\obj\Debug\net8.0\refint\calcular_produto.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_produto\obj\Debug\net8.0\calcular_produto.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_produto\obj\Debug\net8.0\calcular_produto.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_produto\obj\Debug\net8.0\ref\calcular_produto.dll

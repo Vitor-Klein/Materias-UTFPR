@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "pessoa_maior_de_idade/1.0.0": {
+        "runtime": {
+          "pessoa_maior_de_idade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pessoa_maior_de_idade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

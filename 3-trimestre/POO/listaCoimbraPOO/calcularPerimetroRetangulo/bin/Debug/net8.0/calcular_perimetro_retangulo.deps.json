@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "calcular_perimetro_retangulo/1.0.0": {
+        "runtime": {
+          "calcular_perimetro_retangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calcular_perimetro_retangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

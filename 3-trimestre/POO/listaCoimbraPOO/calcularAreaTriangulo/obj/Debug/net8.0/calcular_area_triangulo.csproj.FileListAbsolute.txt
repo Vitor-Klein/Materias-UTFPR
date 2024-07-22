@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_area_triangulo\bin\Debug\net8.0\calcular_area_triangulo.exe
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_area_triangulo\bin\Debug\net8.0\calcular_area_triangulo.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_area_triangulo\bin\Debug\net8.0\calcular_area_triangulo.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_area_triangulo\bin\Debug\net8.0\calcular_area_triangulo.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_area_triangulo\bin\Debug\net8.0\calcular_area_triangulo.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_area_triangulo\obj\Debug\net8.0\calcular_area_triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_area_triangulo\obj\Debug\net8.0\calcular_area_triangulo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_area_triangulo\obj\Debug\net8.0\calcular_area_triangulo.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_area_triangulo\obj\Debug\net8.0\calcular_area_triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_area_triangulo\obj\Debug\net8.0\calcular_area_triangulo.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_area_triangulo\obj\Debug\net8.0\refint\calcular_area_triangulo.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_area_triangulo\obj\Debug\net8.0\calcular_area_triangulo.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_area_triangulo\obj\Debug\net8.0\calcular_area_triangulo.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_area_triangulo\obj\Debug\net8.0\ref\calcular_area_triangulo.dll

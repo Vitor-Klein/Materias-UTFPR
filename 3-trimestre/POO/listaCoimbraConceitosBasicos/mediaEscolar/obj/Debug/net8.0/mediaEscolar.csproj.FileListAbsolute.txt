@@ -1,0 +1,14 @@
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\1-mediaEscolar\mediaEscolar\bin\Debug\net8.0\mediaEscolar.exe
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\1-mediaEscolar\mediaEscolar\bin\Debug\net8.0\mediaEscolar.deps.json
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\1-mediaEscolar\mediaEscolar\bin\Debug\net8.0\mediaEscolar.runtimeconfig.json
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\1-mediaEscolar\mediaEscolar\bin\Debug\net8.0\mediaEscolar.dll
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\1-mediaEscolar\mediaEscolar\bin\Debug\net8.0\mediaEscolar.pdb
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\1-mediaEscolar\mediaEscolar\obj\Debug\net8.0\mediaEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\1-mediaEscolar\mediaEscolar\obj\Debug\net8.0\mediaEscolar.AssemblyInfoInputs.cache
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\1-mediaEscolar\mediaEscolar\obj\Debug\net8.0\mediaEscolar.AssemblyInfo.cs
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\1-mediaEscolar\mediaEscolar\obj\Debug\net8.0\mediaEscolar.csproj.CoreCompileInputs.cache
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\1-mediaEscolar\mediaEscolar\obj\Debug\net8.0\mediaEscolar.dll
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\1-mediaEscolar\mediaEscolar\obj\Debug\net8.0\refint\mediaEscolar.dll
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\1-mediaEscolar\mediaEscolar\obj\Debug\net8.0\mediaEscolar.pdb
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\1-mediaEscolar\mediaEscolar\obj\Debug\net8.0\mediaEscolar.genruntimeconfig.cache
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\1-mediaEscolar\mediaEscolar\obj\Debug\net8.0\ref\mediaEscolar.dll

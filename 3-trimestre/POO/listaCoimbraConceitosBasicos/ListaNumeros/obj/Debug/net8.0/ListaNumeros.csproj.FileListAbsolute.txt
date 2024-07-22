@@ -1,0 +1,14 @@
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\ListaNumeros\bin\Debug\net8.0\ListaNumeros.exe
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\ListaNumeros\bin\Debug\net8.0\ListaNumeros.deps.json
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\ListaNumeros\bin\Debug\net8.0\ListaNumeros.runtimeconfig.json
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\ListaNumeros\bin\Debug\net8.0\ListaNumeros.dll
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\ListaNumeros\bin\Debug\net8.0\ListaNumeros.pdb
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\ListaNumeros\obj\Debug\net8.0\ListaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\ListaNumeros\obj\Debug\net8.0\ListaNumeros.AssemblyInfoInputs.cache
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\ListaNumeros\obj\Debug\net8.0\ListaNumeros.AssemblyInfo.cs
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\ListaNumeros\obj\Debug\net8.0\ListaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\ListaNumeros\obj\Debug\net8.0\ListaNumeros.dll
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\ListaNumeros\obj\Debug\net8.0\refint\ListaNumeros.dll
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\ListaNumeros\obj\Debug\net8.0\ListaNumeros.pdb
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\ListaNumeros\obj\Debug\net8.0\ListaNumeros.genruntimeconfig.cache
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\ListaNumeros\obj\Debug\net8.0\ref\ListaNumeros.dll

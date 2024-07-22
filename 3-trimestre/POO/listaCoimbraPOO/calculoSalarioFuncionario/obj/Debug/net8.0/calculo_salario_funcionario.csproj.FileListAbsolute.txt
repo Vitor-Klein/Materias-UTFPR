@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_salario_funcionario\bin\Debug\net8.0\calculo_salario_funcionario.exe
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_salario_funcionario\bin\Debug\net8.0\calculo_salario_funcionario.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_salario_funcionario\bin\Debug\net8.0\calculo_salario_funcionario.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_salario_funcionario\bin\Debug\net8.0\calculo_salario_funcionario.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_salario_funcionario\bin\Debug\net8.0\calculo_salario_funcionario.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_salario_funcionario\obj\Debug\net8.0\calculo_salario_funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_salario_funcionario\obj\Debug\net8.0\calculo_salario_funcionario.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_salario_funcionario\obj\Debug\net8.0\calculo_salario_funcionario.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_salario_funcionario\obj\Debug\net8.0\calculo_salario_funcionario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_salario_funcionario\obj\Debug\net8.0\calculo_salario_funcionario.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_salario_funcionario\obj\Debug\net8.0\refint\calculo_salario_funcionario.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_salario_funcionario\obj\Debug\net8.0\calculo_salario_funcionario.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_salario_funcionario\obj\Debug\net8.0\calculo_salario_funcionario.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calculo_salario_funcionario\obj\Debug\net8.0\ref\calculo_salario_funcionario.dll

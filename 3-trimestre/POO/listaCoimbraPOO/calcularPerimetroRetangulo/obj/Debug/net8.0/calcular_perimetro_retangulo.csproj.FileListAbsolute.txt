@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_perimetro_retangulo\bin\Debug\net8.0\calcular_perimetro_retangulo.exe
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_perimetro_retangulo\bin\Debug\net8.0\calcular_perimetro_retangulo.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_perimetro_retangulo\bin\Debug\net8.0\calcular_perimetro_retangulo.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_perimetro_retangulo\bin\Debug\net8.0\calcular_perimetro_retangulo.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_perimetro_retangulo\bin\Debug\net8.0\calcular_perimetro_retangulo.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_perimetro_retangulo\obj\Debug\net8.0\calcular_perimetro_retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_perimetro_retangulo\obj\Debug\net8.0\calcular_perimetro_retangulo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_perimetro_retangulo\obj\Debug\net8.0\calcular_perimetro_retangulo.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_perimetro_retangulo\obj\Debug\net8.0\calcular_perimetro_retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_perimetro_retangulo\obj\Debug\net8.0\calcular_perimetro_retangulo.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_perimetro_retangulo\obj\Debug\net8.0\refint\calcular_perimetro_retangulo.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_perimetro_retangulo\obj\Debug\net8.0\calcular_perimetro_retangulo.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_perimetro_retangulo\obj\Debug\net8.0\calcular_perimetro_retangulo.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_perimetro_retangulo\obj\Debug\net8.0\ref\calcular_perimetro_retangulo.dll

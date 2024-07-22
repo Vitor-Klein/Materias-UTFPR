@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "criacao_classe_pessoa/1.0.0": {
+        "runtime": {
+          "criacao_classe_pessoa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "criacao_classe_pessoa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

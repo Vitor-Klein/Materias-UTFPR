@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_media_aluno\obj\Debug\net8.0\calcular_media_aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_media_aluno\obj\Debug\net8.0\calcular_media_aluno.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_media_aluno\obj\Debug\net8.0\calcular_media_aluno.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_media_aluno\obj\Debug\net8.0\calcular_media_aluno.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_media_aluno\bin\Debug\net8.0\calcular_media_aluno.exe
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_media_aluno\bin\Debug\net8.0\calcular_media_aluno.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_media_aluno\bin\Debug\net8.0\calcular_media_aluno.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_media_aluno\bin\Debug\net8.0\calcular_media_aluno.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_media_aluno\bin\Debug\net8.0\calcular_media_aluno.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_media_aluno\obj\Debug\net8.0\calcular_media_aluno.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_media_aluno\obj\Debug\net8.0\refint\calcular_media_aluno.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_media_aluno\obj\Debug\net8.0\calcular_media_aluno.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_media_aluno\obj\Debug\net8.0\calcular_media_aluno.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\calcular_media_aluno\obj\Debug\net8.0\ref\calcular_media_aluno.dll

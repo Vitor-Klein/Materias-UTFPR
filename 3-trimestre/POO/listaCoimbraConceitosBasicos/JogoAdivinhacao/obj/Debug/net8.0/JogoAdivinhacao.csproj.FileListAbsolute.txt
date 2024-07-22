@@ -1,0 +1,14 @@
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\JogoAdivinhacao\bin\Debug\net8.0\JogoAdivinhacao.exe
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\JogoAdivinhacao\bin\Debug\net8.0\JogoAdivinhacao.deps.json
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\JogoAdivinhacao\bin\Debug\net8.0\JogoAdivinhacao.runtimeconfig.json
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\JogoAdivinhacao\bin\Debug\net8.0\JogoAdivinhacao.dll
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\JogoAdivinhacao\bin\Debug\net8.0\JogoAdivinhacao.pdb
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.AssemblyInfoInputs.cache
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.AssemblyInfo.cs
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.dll
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\JogoAdivinhacao\obj\Debug\net8.0\refint\JogoAdivinhacao.dll
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.pdb
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.genruntimeconfig.cache
+C:\Users\vitor\www\UTFPR\3-trimestre\POO\listaCoimbraConceitosBasicos\JogoAdivinhacao\obj\Debug\net8.0\ref\JogoAdivinhacao.dll
