@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\HeracaProjetoBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15FBAE37-809F-42A3-8A1E-62DCFDE1ECE8}|HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca.csproj|c:\\users\\vitor\\www\\materias-utfpr\\3-trimestre\\poo\\heracaprojetobiblioteca\\heracaprojetobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FBAE37-809F-42A3-8A1E-62DCFDE1ECE8}|HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca.csproj|solutionrelative:heracaprojetobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FBAE37-809F-42A3-8A1E-62DCFDE1ECE8}|HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca.csproj|c:\\users\\vitor\\www\\materias-utfpr\\3-trimestre\\poo\\heracaprojetobiblioteca\\heracaprojetobiblioteca\\modelos\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FBAE37-809F-42A3-8A1E-62DCFDE1ECE8}|HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca.csproj|solutionrelative:heracaprojetobiblioteca\\modelos\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FBAE37-809F-42A3-8A1E-62DCFDE1ECE8}|HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca.csproj|c:\\users\\vitor\\www\\materias-utfpr\\3-trimestre\\poo\\heracaprojetobiblioteca\\heracaprojetobiblioteca\\modelos\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FBAE37-809F-42A3-8A1E-62DCFDE1ECE8}|HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca.csproj|solutionrelative:heracaprojetobiblioteca\\modelos\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FBAE37-809F-42A3-8A1E-62DCFDE1ECE8}|HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca.csproj|c:\\users\\vitor\\www\\materias-utfpr\\3-trimestre\\poo\\heracaprojetobiblioteca\\heracaprojetobiblioteca\\modelos\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FBAE37-809F-42A3-8A1E-62DCFDE1ECE8}|HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca.csproj|solutionrelative:heracaprojetobiblioteca\\modelos\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FBAE37-809F-42A3-8A1E-62DCFDE1ECE8}|HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca.csproj|c:\\users\\vitor\\www\\materias-utfpr\\3-trimestre\\poo\\heracaprojetobiblioteca\\heracaprojetobiblioteca\\modelos\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FBAE37-809F-42A3-8A1E-62DCFDE1ECE8}|HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca.csproj|solutionrelative:heracaprojetobiblioteca\\modelos\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 5,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca\\Modelos\\DVD.cs",
+              "RelativeDocumentMoniker": "HeracaProjetoBiblioteca\\Modelos\\DVD.cs",
+              "ToolTip": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca\\Modelos\\DVD.cs",
+              "RelativeToolTip": "HeracaProjetoBiblioteca\\Modelos\\DVD.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:02:36.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Revista.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca\\Modelos\\Revista.cs",
+              "RelativeDocumentMoniker": "HeracaProjetoBiblioteca\\Modelos\\Revista.cs",
+              "ToolTip": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca\\Modelos\\Revista.cs",
+              "RelativeToolTip": "HeracaProjetoBiblioteca\\Modelos\\Revista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:01:05.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca\\Modelos\\Item.cs",
+              "RelativeDocumentMoniker": "HeracaProjetoBiblioteca\\Modelos\\Item.cs",
+              "ToolTip": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca\\Modelos\\Item.cs",
+              "RelativeToolTip": "HeracaProjetoBiblioteca\\Modelos\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:45:03.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca\\Modelos\\Livro.cs",
+              "RelativeDocumentMoniker": "HeracaProjetoBiblioteca\\Modelos\\Livro.cs",
+              "ToolTip": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca\\Modelos\\Livro.cs",
+              "RelativeToolTip": "HeracaProjetoBiblioteca\\Modelos\\Livro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:39:15.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "HeracaProjetoBiblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\HeracaProjetoBiblioteca\\HeracaProjetoBiblioteca\\Program.cs",
+              "RelativeToolTip": "HeracaProjetoBiblioteca\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:36:31.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\vitor\www\Materias-UTFPR\3-trimestre\POO\HeracaProjetoBiblioteca\HeracaProjetoBiblioteca\bin\Debug\net8.0\HeracaProjetoBiblioteca.exe
+C:\Users\vitor\www\Materias-UTFPR\3-trimestre\POO\HeracaProjetoBiblioteca\HeracaProjetoBiblioteca\bin\Debug\net8.0\HeracaProjetoBiblioteca.deps.json
+C:\Users\vitor\www\Materias-UTFPR\3-trimestre\POO\HeracaProjetoBiblioteca\HeracaProjetoBiblioteca\bin\Debug\net8.0\HeracaProjetoBiblioteca.runtimeconfig.json
+C:\Users\vitor\www\Materias-UTFPR\3-trimestre\POO\HeracaProjetoBiblioteca\HeracaProjetoBiblioteca\bin\Debug\net8.0\HeracaProjetoBiblioteca.dll
+C:\Users\vitor\www\Materias-UTFPR\3-trimestre\POO\HeracaProjetoBiblioteca\HeracaProjetoBiblioteca\bin\Debug\net8.0\HeracaProjetoBiblioteca.pdb
+C:\Users\vitor\www\Materias-UTFPR\3-trimestre\POO\HeracaProjetoBiblioteca\HeracaProjetoBiblioteca\obj\Debug\net8.0\HeracaProjetoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\www\Materias-UTFPR\3-trimestre\POO\HeracaProjetoBiblioteca\HeracaProjetoBiblioteca\obj\Debug\net8.0\HeracaProjetoBiblioteca.AssemblyInfoInputs.cache
+C:\Users\vitor\www\Materias-UTFPR\3-trimestre\POO\HeracaProjetoBiblioteca\HeracaProjetoBiblioteca\obj\Debug\net8.0\HeracaProjetoBiblioteca.AssemblyInfo.cs
+C:\Users\vitor\www\Materias-UTFPR\3-trimestre\POO\HeracaProjetoBiblioteca\HeracaProjetoBiblioteca\obj\Debug\net8.0\HeracaProjetoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\vitor\www\Materias-UTFPR\3-trimestre\POO\HeracaProjetoBiblioteca\HeracaProjetoBiblioteca\obj\Debug\net8.0\HeracaProjetoBiblioteca.sourcelink.json
+C:\Users\vitor\www\Materias-UTFPR\3-trimestre\POO\HeracaProjetoBiblioteca\HeracaProjetoBiblioteca\obj\Debug\net8.0\HeracaProjetoBiblioteca.dll
+C:\Users\vitor\www\Materias-UTFPR\3-trimestre\POO\HeracaProjetoBiblioteca\HeracaProjetoBiblioteca\obj\Debug\net8.0\refint\HeracaProjetoBiblioteca.dll
+C:\Users\vitor\www\Materias-UTFPR\3-trimestre\POO\HeracaProjetoBiblioteca\HeracaProjetoBiblioteca\obj\Debug\net8.0\HeracaProjetoBiblioteca.pdb
+C:\Users\vitor\www\Materias-UTFPR\3-trimestre\POO\HeracaProjetoBiblioteca\HeracaProjetoBiblioteca\obj\Debug\net8.0\HeracaProjetoBiblioteca.genruntimeconfig.cache
+C:\Users\vitor\www\Materias-UTFPR\3-trimestre\POO\HeracaProjetoBiblioteca\HeracaProjetoBiblioteca\obj\Debug\net8.0\ref\HeracaProjetoBiblioteca.dll

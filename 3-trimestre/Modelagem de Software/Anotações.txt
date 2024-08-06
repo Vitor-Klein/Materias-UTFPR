@@ -1,0 +1,15 @@
+**UML:**
+
+• *Método* POO = *operação* UML
+
+• O ator age diretamente com objeto de **fronteira**, estes por sua vez passam a informação para objetos de **controle** (classes de controle → manutenção das regras de negócio).
+
+• **Agregação composta:** se a parte for destruída, o todo deve ser destruído também. Sua notação dá-se por um losango preto, ao contrário da agregação simples que tem o losango branco e não destrói o todo. O losango deve ficar na tabela que dá origem à outra que seria destruída/teria um item removido.
+
+• **Sinais que se tem uma classe associativa:** surge a partir de classes muitos para muitos; têm-se informações necessárias entre as classes das quais deriva (utiliza-se linha tracejada para notação); é dependente das informações de outras classes (classe fraca). A notação dá-se por uma linha pontilhada.
+
+• **Associação reflexiva:** objeto(s) da mesma classe que se associam. É importante a utilização de papéis. A notação dá-se por uma linha contínua saindo da classe e retornando para esta.
+
+• **Relacionamento de generalização/herança:** para indicar que a subclasse é **um tipo de** superclasse (ex.: cliente ← clientePessoaFisica ou clientePessoaJurídica). A notação dá-se sempre para uma seta saindo da subclasse e terminando na superclasse com um triângulo fechado e branco.
+
+• **Polimorfismo e classes abstratas** advém de relacionamentos de herança. O polimorfismo apenas reescreve o dado que será mudado, sem necessidade de especificação do quê será mudado. A notação da classe abstrata dá-se pelo nome da entidade escrito em itálico (ex.: desenhar figuras geométricas ← círculo, triângulo, quadrado (cada um tem uma implementação diferente)). Se algo, mínimo que seja, muda entre a classe herdada e a classe que herda, dá-se o polimorfismo; se algo, pelo menos um, não pode ser totalmente explicado/mostrado como se dá a implementação em UML, dá-se uma classe abstrata.
