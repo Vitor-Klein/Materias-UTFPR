@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vitor\\www\\UTFPR\\3-trimestre\\POO\\listaCoimbraConceitosBasicos\\mediaEscolar\\mediaEscolar.csproj": {}
+    "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\listaCoimbraConceitosBasicos\\mediaEscolar\\mediaEscolar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vitor\\www\\UTFPR\\3-trimestre\\POO\\listaCoimbraConceitosBasicos\\mediaEscolar\\mediaEscolar.csproj": {
+    "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\listaCoimbraConceitosBasicos\\mediaEscolar\\mediaEscolar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitor\\www\\UTFPR\\3-trimestre\\POO\\listaCoimbraConceitosBasicos\\mediaEscolar\\mediaEscolar.csproj",
+        "projectUniqueName": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\listaCoimbraConceitosBasicos\\mediaEscolar\\mediaEscolar.csproj",
         "projectName": "mediaEscolar",
-        "projectPath": "C:\\Users\\vitor\\www\\UTFPR\\3-trimestre\\POO\\listaCoimbraConceitosBasicos\\mediaEscolar\\mediaEscolar.csproj",
+        "projectPath": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\listaCoimbraConceitosBasicos\\mediaEscolar\\mediaEscolar.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitor\\www\\UTFPR\\3-trimestre\\POO\\listaCoimbraConceitosBasicos\\mediaEscolar\\obj\\",
+        "outputPath": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\listaCoimbraConceitosBasicos\\mediaEscolar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

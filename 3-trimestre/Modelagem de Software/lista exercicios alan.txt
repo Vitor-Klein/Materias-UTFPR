@@ -1,0 +1,74 @@
+
+1. Arquitetura de Software:
+
+Definição: Projeto e organização de sistemas complexos.
+Aspectos Principais:
+Estrutura do Sistema: Componentes e interconexões.
+Comportamento: Interação entre componentes.
+Qualidades do Sistema: Desempenho, segurança, etc.
+Padrões e Estilos Arquitetônicos: Uso de padrões como MVC e microserviços.
+Tomada de Decisão: Justificação de escolhas tecnológicas.
+Visões Arquiteturais: Diferentes perspectivas para stakeholders.
+
+2. Importância dos Componentes de Software:
+
+Crucialidade: Dividem o sistema em partes menores e gerenciáveis.
+Vantagens:
+Modularidade: Facilita entendimento e manutenção.
+Reusabilidade: Reutilização em diferentes projetos.
+Facilidade de Manutenção: Isolamento de problemas.
+Escalabilidade e Evolução: Adição e melhoria de componentes.
+Separação de Preocupações: Tratamento separado de aspectos do sistema.
+Interoperabilidade: Integração de diferentes tecnologias.
+Desempenho e Otimização: Otimização individual.
+Gerenciamento de Complexidade: Lida com sistemas grandes.
+Flexibilidade e Adaptabilidade: Modificação e substituição facilitadas.
+
+3. Exemplos de Componentes de Software:
+
+Interface do Usuário (UI): Gerencia interação com o usuário.
+Lógica de Negócios: Regras e lógica central.
+Acesso a Dados: Leitura e escrita em bancos de dados.
+Serviços Web/API: Comunicação entre sistemas.
+Autenticação e Autorização: Segurança de acesso.
+Gerenciamento de Sessão: Informações de sessão.
+Mensageria: Comunicação assíncrona.
+Cache: Armazenamento temporário de dados.
+Relatórios: Geração de relatórios.
+Logging: Registro de eventos e atividades.
+
+4. Arquitetura em Camadas:
+
+Características:
+Separação de Preocupações: Funções específicas por camada.
+Dependência Controlada: Superiores dependem das inferiores.
+Interação Estruturada: Comunicação sequencial.
+Modularidade: Desenvolvimento independente.
+Reutilização de Componentes: Reutilização de inferiores.
+Substituibilidade: Substituição sem afetar outras camadas.
+Segurança e Controle de Acesso: Controle em diferentes níveis.
+Facilidade de Teste: Testes isolados por camada.
+Manutenibilidade: Identificação e correção facilitadas.
+Escalabilidade: Escalabilidade independente.
+
+5. Responsabilidades das Camadas:
+
+Camada de Apresentação:
+Responsabilidade: Interação com o usuário.
+Funções: Renderizar UI, capturar entradas, exibir dados.
+Camada de Negócio:
+Responsabilidade: Lógica de negócios.
+Funções: Processar dados, aplicar regras, coordenar camadas.
+Camada de Persistência:
+Responsabilidade: Armazenamento e recuperação de dados.
+Funções: Operações de leitura/escrita, manipulação de dados.
+
+6. Padrão Arquitetural MVC:
+
+Model: Gerencia dados e lógica de negócios.
+View: Apresenta a interface do usuário.
+Controller: Interpreta entradas e atualiza Model e View.
+Relação com o Estilo em Camadas: Ambos promovem modularidade e separação de preocupações.
+Diferença Fundamental:
+MVC: Foca na interação entre Model, View e Controller.
+Estilo em Camadas: Organização em níveis hierárquicos com responsabilidades distintas.
