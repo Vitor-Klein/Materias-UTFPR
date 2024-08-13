@@ -1,0 +1,27 @@
+{
+  "files.associations": {
+    "*.excalidraw": "json",
+    "*.excalidrawlib": "json",
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json",
+    "*.tsx": "typescriptreact",
+    ".env.*": "dotenv",
+    "1_criararvore.h": "c",
+    "arvoreavl.h": "c",
+    "0_struct_arvore.h": "c",
+    "1_criararvoreavl.h": "c",
+    "4_buscarinfo.h": "c",
+    "stdio.h": "c",
+    "arvorebinaria.h": "c",
+    "arvorerubronegra.h": "c",
+    "tad_arvore.h": "c",
+    "time.h": "c",
+    "0_struct_descritor.h": "c",
+    "2_incluirinfo.h": "c",
+    "3_excluirinfo.h": "c",
+    "12_desenhaarvore.h": "c",
+    "stdlib.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}

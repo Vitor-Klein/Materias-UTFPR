@@ -1,0 +1,18 @@
+{
+  "files.associations": {
+    "*.excalidraw": "json",
+    "*.excalidrawlib": "json",
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json",
+    "*.tsx": "typescriptreact",
+    ".env.*": "dotenv",
+    "persistencia.h": "c",
+    "arvoreavl.h": "c",
+    "arvorerubronegra.h": "c",
+    "0_struct_arvore.h": "c",
+    "arvorebinaria.h": "c",
+    "1_criararvore.h": "c",
+    "0_struct_descritor.h": "c"
+  }
+}
