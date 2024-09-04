@@ -1,0 +1,53 @@
+﻿@page "/receita/details"
+
+@using Microsoft.EntityFrameworkCore
+@using WebCoffe.Models
+@inject IDbContextFactory<WebCoffe.Data.AppDbContext> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Details</PageTitle>
+
+<h1>Details</h1>
+
+<div>
+    <h4>Receita</h4>
+    <hr />
+    @if (receita is null)
+    {
+        <p><em>Loading...</em></p>
+    }
+    else {
+        <dl class="row">
+            <dt class="col-sm-2">Nome</dt>
+            <dd class="col-sm-10">@receita.Nome</dd>
+            <dt class="col-sm-2">Descricao</dt>
+            <dd class="col-sm-10">@receita.Descricao</dd>
+            <dt class="col-sm-2">TempoPreparo</dt>
+            <dd class="col-sm-10">@receita.TempoPreparo</dd>
+            <dt class="col-sm-2">Tipo</dt>
+            <dd class="col-sm-10">@receita.Tipo</dd>
+        </dl>
+        <div>
+            <a href="@($"/receita/edit?id={receita.Id}")">Edit</a> |
+            <a href="@($"/")">Back to List</a>
+        </div>
+    }
+</div>
+
+@code {
+    Receita? receita;
+
+    [SupplyParameterFromQuery]
+    public int Id { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        using var context = DbFactory.CreateDbContext();
+        receita = await context.Receitas.FirstOrDefaultAsync(m => m.Id == Id);
+
+        if (receita is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+}

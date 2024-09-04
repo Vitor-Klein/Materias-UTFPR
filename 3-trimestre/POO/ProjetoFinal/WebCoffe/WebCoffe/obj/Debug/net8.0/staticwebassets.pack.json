@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\ProjetoFinal\\WebCoffe\\WebCoffe\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebCoffe.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebCoffe.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\ProjetoFinal\\WebCoffe\\WebCoffe\\wwwroot\\Images\\coffeImage.png",
+      "PackagePath": "staticwebassets\\Images\\coffeImage.png"
+    },
+    {
+      "Id": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\ProjetoFinal\\WebCoffe\\WebCoffe\\wwwroot\\Images\\coffeMug.png",
+      "PackagePath": "staticwebassets\\Images\\coffeMug.png"
+    },
+    {
+      "Id": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\ProjetoFinal\\WebCoffe\\WebCoffe\\wwwroot\\Images\\teaImage.png",
+      "PackagePath": "staticwebassets\\Images\\teaImage.png"
+    },
+    {
+      "Id": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\ProjetoFinal\\WebCoffe\\WebCoffe\\wwwroot\\Images\\teaPot.png",
+      "PackagePath": "staticwebassets\\Images\\teaPot.png"
+    },
+    {
+      "Id": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\ProjetoFinal\\WebCoffe\\WebCoffe\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\ProjetoFinal\\WebCoffe\\WebCoffe\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\ProjetoFinal\\WebCoffe\\WebCoffe\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vitor\\www\\Materias-UTFPR\\3-trimestre\\POO\\ProjetoFinal\\WebCoffe\\WebCoffe\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebCoffe.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebCoffe.props",
+      "PackagePath": "build\\WebCoffe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebCoffe.props",
+      "PackagePath": "buildMultiTargeting\\WebCoffe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebCoffe.props",
+      "PackagePath": "buildTransitive\\WebCoffe.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

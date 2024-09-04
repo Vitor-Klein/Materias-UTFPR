@@ -1,0 +1,75 @@
+﻿@page "/"
+
+@using Microsoft.EntityFrameworkCore
+@using Microsoft.AspNetCore.Components.QuickGrid
+@using WebCoffe.Models
+@using WebCoffe.Data
+@inject IDbContextFactory<WebCoffe.Data.AppDbContext> DbFactory
+@implements IAsyncDisposable
+
+<PageTitle>Index</PageTitle>
+
+<h1>Suas Receitas</h1>
+
+<p>
+    <a class="btn"
+       style="background-color: #6F4E37; color: #F5EDDA; text-decoration: none"
+       href="receita/create/cafe">
+        Adicionar Café
+    </a>
+    <a class="btn"
+       style="background-color: #EBDB85; color: #1B1A1F; text-decoration: none"
+       href="receita/create/cha">
+        Adicionar Chá
+    </a>
+</p>
+
+@if (context?.Receitas != null)
+{
+    <div class="row">
+        @foreach (var receita in context.Receitas)
+        {
+            <div class="cardContainer">
+                <h1 class="cardTitle">@receita.Nome</h1>
+                <p>Tempo de Preparo: <span class="cardTime">@receita.TempoPreparo</span></p>
+                <img
+                    src="@(receita.Tipo == "Café" ? "/Images/coffeMug.png" : "/Images/teaPot.png")"
+                    alt="@(receita.Tipo == "Café" ? "coffe image" : "tea image")"
+                />
+                <div class="cardBottom">
+                    <span class="cardDescription">@receita.Descricao</span>
+                    
+                    
+                    <div class="cardButtons">
+                        <a href="@($"receita/delete?id={receita.Id}")" class="deleteBtn">Deletar</a>
+                        <a href="@($"receita/edit?id={receita.Id}")" class="editBtn">Editar</a>
+                    </div>
+                </div>
+                
+                
+            </div> 
+        }
+    </div>
+}
+else
+{
+    <p>Loading...</p>
+}
+
+@code {
+    private AppDbContext context = default!;
+
+    protected override async Task OnInitializedAsync()
+    {
+        context = await DbFactory.CreateDbContextAsync();
+        await context.Receitas.ToListAsync();
+    }
+
+    public async ValueTask DisposeAsync()
+    {
+        if (context != null)
+        {
+            await context.DisposeAsync();
+        }
+    }
+}

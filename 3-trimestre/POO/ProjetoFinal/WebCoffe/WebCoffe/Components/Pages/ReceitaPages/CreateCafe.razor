@@ -1,0 +1,132 @@
+﻿@page "/receita/create/cafe"
+@using WebCoffe.Models
+@using WebCoffe.Services.Interfaces
+@inject IReceitaService ReceitaService
+@inject NavigationManager Navigation
+@using System.ComponentModel.DataAnnotations
+
+<h3 class="text-center" style="color: #1B1A1F">Receita do Café</h3>
+
+<div class="container">
+    <div class="imageContainer">
+        <img src="/Images/coffeImage.png" class="image" alt="Imagem de Café" />
+    </div>
+
+        <EditForm Model="@this" OnSubmit="HandleValidSubmit" FormName="create" class="form-container rounded-right">
+            <DataAnnotationsValidator />
+            <ValidationSummary class="alert alert-danger" />
+
+            <div class="mb-3">
+                <label for="torragem" class="form-label">Torragem</label>
+                <InputText id="torragem" @bind-Value="Torragem" 
+                           class="form-control form-control-sm" placeholder="Digite o nível de torragem" />
+            </div>
+
+            <div class="mb-3">
+                <label for="nome" class="form-label">Nome</label>
+                <InputText id="nome" @bind-Value="Nome" 
+                           class="form-control form-control-sm" placeholder="Digite o nome" />
+            </div>
+
+            <div class="mb-3">
+                <label for="descricao" class="form-label">Descrição</label>
+                <InputText id="descricao" @bind-Value="Descricao" 
+                           class="form-control form-control-sm" placeholder="Digite a descrição" />
+            </div>
+
+            <div class="mb-3">
+                <label for="tempoPreparo" class="form-label">Tempo de Preparo</label>
+                <InputText id="tempoPreparo" @bind-Value="TempoPreparoString" 
+                           class="form-control form-control-sm" placeholder="Digite o tempo de preparo" />
+            </div>
+
+            <button type="submit" class="btn w-100 mb-2"
+                    style="background-color: #6F4E37; color: #F5EDDA; text-decoration: none">
+                Salvar
+            </button>
+
+            <a class="btn w-100 border-0" href="/"
+               style="background-color: #E9CBA7; color: #6F4E37;text-decoration: none">
+                Voltar
+            </a>
+        </EditForm>
+    </div>
+
+<style>
+    .container{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        margin-top: 50px;
+        padding: 0;
+        height: 500px;
+        max-width: 800px;
+    }
+    .form-container {
+        padding: 15px;
+        width: 65%;
+        height: 100%;
+        background-color: #FCF2E8;
+        border-top-right-radius: 8px;
+        border-bottom-right-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+    
+    .imageContainer{
+        width: 35%;
+        height: 100%;
+    }
+
+    .image {
+        border-top-left-radius: 8px;
+        border-bottom-left-radius: 8px;
+        object-fit: cover;
+        width: 100%;
+        height: 100%;
+    }
+
+    .form-control-sm {
+        font-size: 0.875rem;
+        padding: 0.5rem;
+    }
+</style>
+
+@code {
+    private Receita receita;
+
+    [SupplyParameterFromForm]
+    public bool IsCafe { get; set; }
+
+    [SupplyParameterFromForm]
+    public string Nome { get; set; }
+
+    [SupplyParameterFromForm]
+    public string Descricao { get; set; }
+
+    [SupplyParameterFromForm]
+    public string TempoPreparoString { get; set; } = "00:00:00";
+
+    [SupplyParameterFromForm]
+    public string Torragem { get; set; }
+
+
+    protected override void OnInitialized()
+    {
+        IsCafe = true;
+    }
+
+    private async Task HandleValidSubmit()
+    {
+            receita = new Cafe
+            {
+                Nome = Nome,
+                Descricao = Descricao,
+                TempoPreparo = TimeSpan.Parse(TempoPreparoString),
+                Torragem = Torragem
+            };
+            await ReceitaService.AddReceitaAsync(receita);
+
+        Navigation.NavigateTo("/");
+    }
+}

@@ -1,0 +1,134 @@
+﻿@page "/receita/create/cha"
+@using WebCoffe.Models
+@using WebCoffe.Services.Interfaces
+@inject IReceitaService ReceitaService
+@inject NavigationManager Navigation
+@using System.ComponentModel.DataAnnotations
+
+<h3 class="text-center" style="color: #1B1A1F">Receita do Chá</h3>
+
+<div class="container">
+    <EditForm Model="@this" OnSubmit="HandleValidSubmit" FormName="create" class="form-container rounded-left">
+        <DataAnnotationsValidator />
+        <ValidationSummary class="alert alert-danger" />
+
+        <div class="mb-3">
+            <label for="tipoFolha" class="form-label">Tipo de Folha</label>
+            <InputText id="tipoFolha" @bind-Value="TipoFolha"
+                       class="form-control form-control-sm" placeholder="Digite o tipo de folha" />
+        </div>
+
+        <div class="mb-3">
+            <label for="nome" class="form-label">Nome</label>
+            <InputText id="nome" @bind-Value="Nome"
+                       class="form-control form-control-sm" placeholder="Digite o nome" />
+        </div>
+
+        <div class="mb-3">
+            <label for="descricao" class="form-label">Descrição</label>
+            <InputText id="descricao" @bind-Value="Descricao"
+                       class="form-control form-control-sm" placeholder="Digite a descrição" />
+        </div>
+
+        <div class="mb-3">
+            <label for="tempoPreparo" class="form-label">Tempo de Preparo</label>
+            <InputText id="tempoPreparo" @bind-Value="TempoPreparoString"
+                       class="form-control form-control-sm" placeholder="Digite o tempo de preparo" />
+        </div>
+
+        <button type="submit" class="btn w-100 mb-2"
+                style="background-color: #FFE247; color: #1B1A1F; text-decoration: none">
+            Salvar
+        </button>
+
+        <a class="btn w-100 border-0" href="/"
+           style="background-color: #EBDB85; color: #1B1A1F;text-decoration: none">
+            Voltar
+        </a>
+    </EditForm>
+
+    <div class="imageContainer">
+        <img src="/Images/teaImage.png" class="image" alt="Imagem de Chá" />
+    </div>
+</div>
+
+<style>
+    .container {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        margin-top: 50px;
+        padding: 0;
+        height: 500px;
+        max-width: 800px;
+    }
+    .form-container {
+        padding: 15px;
+        width: 65%;
+        height: 100%;
+        background-color: #FFF7E0;
+        border-top-left-radius: 8px;
+        border-bottom-left-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+
+    .imageContainer {
+        width: 35%;
+        height: 100%;
+    }
+
+    .image {
+        border-top-right-radius: 8px;
+        border-bottom-right-radius: 8px;
+        object-fit: cover;
+        width: 100%;
+        height: 100%;
+    }
+
+    .form-control-sm {
+        font-size: 0.875rem;
+        padding: 0.5rem;
+    }
+</style>
+
+
+
+@code {
+    private Receita receita;
+
+    [SupplyParameterFromForm]
+    public bool IsCha { get; set; }
+
+    [SupplyParameterFromForm]
+    public string Nome { get; set; }
+
+    [SupplyParameterFromForm]
+    public string Descricao { get; set; }
+
+    [SupplyParameterFromForm]
+    public string TempoPreparoString { get; set; } = "00:00:00";
+
+    [SupplyParameterFromForm]
+    public string TipoFolha { get; set; }
+
+    protected override void OnInitialized()
+    {
+        IsCha = true;
+    }
+
+    private async Task HandleValidSubmit()
+    {
+
+            receita = new Cha
+            {
+                Nome = Nome,
+                Descricao = Descricao,
+                TempoPreparo = TimeSpan.Parse(TempoPreparoString),
+                TipoFolha = TipoFolha
+            };
+            await ReceitaService.AddReceitaAsync(receita);
+
+        Navigation.NavigateTo("/");
+    }
+}

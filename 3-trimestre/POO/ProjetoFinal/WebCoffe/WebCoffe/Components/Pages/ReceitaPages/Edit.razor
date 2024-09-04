@@ -1,0 +1,189 @@
+﻿@page "/receita/edit/{Id:int}"
+
+@using Microsoft.EntityFrameworkCore
+@using WebCoffe.Models
+@inject IDbContextFactory<WebCoffe.Data.AppDbContext> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Edit</PageTitle>
+
+<h1>Edit Receita</h1>
+
+@if (Receita == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <EditForm Model="@this" OnValidSubmit="HandleValidSubmit">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="mb-3">
+            <label for="nome" class="form-label">Nome:</label>
+            <InputText id="nome" @bind-Value="Nome" class="form-control" />
+            <ValidationMessage For="@(() => Nome)" />
+        </div>
+
+        <div class="mb-3">
+            <label for="descricao" class="form-label">Descrição:</label>
+            <InputTextArea id="descricao" @bind-Value="Descricao" class="form-control" />
+            <ValidationMessage For="@(() => Descricao)" />
+        </div>
+
+        <div class="mb-3">
+            <label for="tempoPreparo" class="form-label">Tempo de Preparo (HH:MM:SS):</label>
+            <InputText id="tempoPreparo" @bind-Value="TempoPreparoString" class="form-control" />
+            <ValidationMessage For="@(() => TempoPreparoString)" />
+        </div>
+
+        @if (TipoReceita == "Cha")
+        {
+            <div class="mb-3">
+                <label for="tipoFolha" class="form-label">Tipo de Folha:</label>
+                <InputText id="tipoFolha" @bind-Value="TipoFolha" class="form-control" />
+                <ValidationMessage For="@(() => TipoFolha)" />
+            </div>
+        }
+        else if (TipoReceita == "Cafe")
+        {
+            <div class="mb-3">
+                <label for="torragem" class="form-label">Torragem:</label>
+                <InputText id="torragem" @bind-Value="Torragem" class="form-control" />
+                <ValidationMessage For="@(() => Torragem)" />
+            </div>
+        }
+
+        <button type="submit" class="btn btn-primary">Save</button>
+    </EditForm>
+}
+
+<div>
+    <a href="/receita">Back to List</a>
+</div>
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    private Receita? Receita;
+
+    [SupplyParameterFromForm]
+    public string TipoReceita { get; set; } = string.Empty;
+
+    [SupplyParameterFromForm]
+    public string Nome { get; set; } = string.Empty;
+
+    [SupplyParameterFromForm]
+    public string Descricao { get; set; } = string.Empty;
+
+    [SupplyParameterFromForm]
+    public string TempoPreparoString { get; set; } = string.Empty;
+
+    [SupplyParameterFromForm]
+    public string Torragem { get; set; } = string.Empty;
+
+    [SupplyParameterFromForm]
+    public string TipoFolha { get; set; } = string.Empty;
+
+    protected override async Task OnInitializedAsync()
+    {
+        using var context = DbFactory.CreateDbContext();
+        Receita = await context.Receitas.FindAsync(Id);
+
+        if (Receita == null)
+        {
+            NavigationManager.NavigateTo("/notfound");
+            return;
+        }
+
+        TipoReceita = Receita is Cafe ? "Cafe" : "Cha";
+        Nome = Receita.Nome;
+        Descricao = Receita.Descricao;
+        TempoPreparoString = Receita.TempoPreparo.ToString(@"hh\:mm\:ss");
+
+        if (Receita is Cafe cafe)
+        {
+            Torragem = cafe.Torragem;
+        }
+        else if (Receita is Cha cha)
+        {
+            TipoFolha = cha.TipoFolha;
+        }
+    }
+
+    private async Task HandleValidSubmit()
+    {
+        using var context = DbFactory.CreateDbContext();
+
+        if (TimeSpan.TryParse(TempoPreparoString, out TimeSpan tempoPreparo))
+        {
+            Receita!.TempoPreparo = tempoPreparo;
+        }
+
+        if (TipoReceita == "Cafe")
+        {
+            Receita = new Cafe
+                {
+                    Id = Receita.Id,
+                    Nome = Nome,
+                    Descricao = Descricao,
+                    TempoPreparo = Receita.TempoPreparo,
+                    Torragem = Torragem
+                };
+        }
+        else if (TipoReceita == "Cha")
+        {
+            Receita = new Cha
+                {
+                    Id = Receita.Id,
+                    Nome = Nome,
+                    Descricao = Descricao,
+                    TempoPreparo = Receita.TempoPreparo,
+                    TipoFolha = TipoFolha
+                };
+        }
+
+        context.Attach(Receita).State = EntityState.Modified;
+
+        try
+        {
+            await context.SaveChangesAsync();
+            NavigationManager.NavigateTo("/receita");
+        }
+        catch (DbUpdateConcurrencyException)
+        {
+            if (!ReceitaExists(Receita.Id))
+            {
+                NavigationManager.NavigateTo("/notfound");
+            }
+            else
+            {
+                throw;
+            }
+        }
+    }
+
+    private bool ReceitaExists(int id)
+    {
+        using var context = DbFactory.CreateDbContext();
+        return context.Receitas.Any(e => e.Id == id);
+    }
+
+    private void OnTipoReceitaChanged(ChangeEventArgs e)
+    {
+        TipoReceita = e.Value.ToString();
+
+        // Limpar valores específicos ao trocar de tipo de receita
+        if (TipoReceita == "Cafe")
+        {
+            Torragem = string.Empty;
+            TipoFolha = null;
+        }
+        else if (TipoReceita == "Cha")
+        {
+            TipoFolha = string.Empty;
+            Torragem = null;
+        }
+    }
+}
