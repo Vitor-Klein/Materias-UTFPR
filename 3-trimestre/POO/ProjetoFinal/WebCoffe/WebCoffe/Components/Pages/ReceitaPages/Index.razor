@@ -29,32 +29,127 @@
     <div class="row">
         @foreach (var receita in context.Receitas)
         {
-            <div class="cardContainer">
+            <a class="cardContainer" style="text-decoration: none" href="@($"receita/details?id={receita.Id}")">
                 <h1 class="cardTitle">@receita.Nome</h1>
-                <p>Tempo de Preparo: <span class="cardTime">@receita.TempoPreparo</span></p>
+                <p style="color: #363636">Tempo de Preparo: <span class="cardTime">@receita.TempoPreparo</span></p>
                 <img
                     src="@(receita.Tipo == "Café" ? "/Images/coffeMug.png" : "/Images/teaPot.png")"
                     alt="@(receita.Tipo == "Café" ? "coffe image" : "tea image")"
+                    class="cardImage"
                 />
-                <div class="cardBottom">
-                    <span class="cardDescription">@receita.Descricao</span>
-                    
-                    
+                <div class="cardBottom" style="background-color:@(receita.Tipo == "Café" ? "#7E6C5B" : "#EBDB85")">
+                    <span class="cardDescription"
+                          style="color:@(receita.Tipo == "Café" ? "#FEF9E0" : "#3F3F3F")">
+                        @receita.Descricao
+                    </span>
                     <div class="cardButtons">
-                        <a href="@($"receita/delete?id={receita.Id}")" class="deleteBtn">Deletar</a>
-                        <a href="@($"receita/edit?id={receita.Id}")" class="editBtn">Editar</a>
+                        <a href="@($"receita/delete?id={receita.Id}")" class="deleteBtn">
+                            Deletar
+                        </a>
+                        <a href="@(receita.Tipo == "Café" ? $"/receita/edit/cafe?id={receita.Id}" : $"/receita/edit/cha?id={receita.Id}")"
+                           class="editBtn">
+                            Editar
+                        </a>
                     </div>
                 </div>
-                
-                
-            </div> 
-        }
+            </a>
+            }
     </div>
 }
 else
 {
     <p>Loading...</p>
 }
+
+<style>
+    .row{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    .cardContainer{
+        background-color: #FEF9E0;
+        max-width: 300px;
+        min-height: 400px;
+        border-radius: 10px;
+        margin: 20px;
+        content-visibility: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0;
+        box-shadow: rgba(0, 0, 0, 0.25) 10px 10px 12px;
+    }
+    
+    .cardTitle{
+        text-align: center;
+        margin: 10px;
+        color: #363636;
+    }
+    
+    .cardTime{
+        color: #363636;
+        
+    }
+    .cardImage{
+        width: 120px;
+        height: 100px;
+        margin: 5px;
+    }
+    
+    .cardDescription{
+        font-size: 20px;
+    }
+    
+    .cardBottom{
+        width: 100%;
+        margin: 0;
+        height: 50%;
+        border-radius: 10px 10px 0 0;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .cardButtons{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .deleteBtn{
+        width: 100px;
+        height: 40px;
+        background-color: #FEF9E0;
+        border-radius: 10px;
+        margin-top: 10px;
+        text-align: center;
+        text-decoration: none;
+        padding: 5px;
+        color: #FF2D55;
+        font-weight: bold;
+    }
+
+    .editBtn{
+        width: 100px;
+        height: 40px;
+        background-color: #FEF9E0;
+        border-radius: 10px;
+        margin-top: 10px;
+        text-align: center;
+        text-decoration: none;
+        padding: 5px;
+        color: #34C759;
+        font-weight: bold;
+    }
+    
+</style>
 
 @code {
     private AppDbContext context = default!;
@@ -72,4 +167,4 @@ else
             await context.DisposeAsync();
         }
     }
-}
+}}
