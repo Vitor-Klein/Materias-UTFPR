@@ -1,0 +1,47 @@
+@page
+@model WebCoffe.Components.Pages.ReceitaPages.EditChaModel
+
+@{
+    ViewData["Title"] = "EditCha";
+}
+
+<h1>EditCha</h1>
+
+<h4>Receita</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Receita.Id" />
+            <div class="form-group">
+                <label asp-for="Receita.Nome" class="control-label"></label>
+                <input asp-for="Receita.Nome" class="form-control" />
+                <span asp-validation-for="Receita.Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Receita.Descricao" class="control-label"></label>
+                <input asp-for="Receita.Descricao" class="form-control" />
+                <span asp-validation-for="Receita.Descricao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Receita.TempoPreparo" class="control-label"></label>
+                <input asp-for="Receita.TempoPreparo" class="form-control" />
+                <span asp-validation-for="Receita.TempoPreparo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Receita.Tipo" class="control-label"></label>
+                <input asp-for="Receita.Tipo" class="form-control" />
+                <span asp-validation-for="Receita.Tipo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
