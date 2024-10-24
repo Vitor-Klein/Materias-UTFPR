@@ -8,4 +8,8 @@ export default StyleSheet.create({
     alignItems: 'center',
     backgroundColor: '#f5f5f5',
   },
+  stepImage: {
+    width: 200,
+    height: 200,
+  },
 });

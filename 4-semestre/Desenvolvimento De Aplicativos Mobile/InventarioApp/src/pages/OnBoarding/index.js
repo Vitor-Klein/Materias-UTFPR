@@ -15,21 +15,23 @@ export default function OnBoarding() {
         pages={[
           {
             backgroundColor: '#0D3C76',
-            image: <Image source={require('../../assets/step1-background.png')} />,
-            title: 'Welcome to HomeTidy',
-            subtitle: 'Lets keep your home clean and tidy',
+            image: <Image
+              style={styles.stepImage}
+              source={require('../../assets/Logo.png')} />,
+            title: 'Bem vindo ao HomeTidy',
+            subtitle: 'Seu app de gestão para inventarios domesticos personalizado',
+            titleStyles: { fontSize: 40, fontWeight: 'bold' },
+            subTitleStyles: { fontSize: 20 }
           },
           {
-            backgroundColor: '#ff6347',
-            image: <Image source={require('../../assets/HomeTidyLogo.png')} />,
-            title: 'Organize Effortlessly',
-            subtitle: 'Track and manage home tasks with ease',
-          },
-          {
-            backgroundColor: '#20b2aa',
-            image: <Image source={require('../../assets/HomeTidyLogo.png')} />,
-            title: 'Get Started Now',
-            subtitle: 'Sign up and make your life easier!',
+            backgroundColor: '#2CA58D',
+            image: <Image
+              style={styles.stepImage}
+              source={require('../../assets/step2Image.png')} />,
+            title: 'Listas interativas e super dinamicas',
+            subtitle: 'Crie listas de compras, tarefas e muito mais',
+            titleStyles: { fontSize: 40, fontWeight: 'bold' },
+            subTitleStyles: { fontSize: 20 }
           },
         ]}
         bottomBarColor='#ffffff00 '
