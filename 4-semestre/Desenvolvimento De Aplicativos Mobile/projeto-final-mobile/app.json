@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "HomeList",
+    "slug": "HomeList",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0A2342"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.vitorklein.HomeList"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptative-icon.png",
+        "backgroundColor": "#0A2342"
+      },
+      "package": "com.vitorklein.HomeList"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c025d35d-f601-417c-b037-d8c5ecd14a30"
+      }
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "enabled": false
+    }
+  }
+}
